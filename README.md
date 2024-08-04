@@ -29,7 +29,7 @@ The dataset used for this project includes historical sales data, which contains
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/sales-insights-data-analytics.git
+    git clone https://github.com/Rahulchafle/sales-insights-data-analytics.git
     cd sales-insights-data-analytics
     ```
 
